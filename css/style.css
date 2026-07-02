@@ -1,0 +1,36 @@
+body {
+    font-family: system-ui, -apple-system, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 420px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h2 {
+    margin: 0 0 6px 0;
+}
+
+.sub {
+    margin: 0 0 20px 0;
+    color: #666;
+    font-size: 14px;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.4;
+}
